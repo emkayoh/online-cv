@@ -165,7 +165,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Publications &amp; Patents
     intro: |
       Selected papers and a link to my Google Scholar page
     papers:
@@ -178,9 +178,12 @@ publications:
       authors: <b>JMF Kelly</b>, A Daugirdiene, JJ Kulikowski, IJ Murray
       conference: JOSA A 35 (4), B100-B105
     - title: Google Scholar Page
-    link: "https://scholar.google.com/citations?user=WvsuodoAAAAJ&hl=en"
-
-       
+      link: "https://scholar.google.com/citations?user=WvsuodoAAAAJ&hl=en"
+    patents:
+    - title: A method and apparatus for measuring a property of an eye
+    authors: Jeremiah Michael Francis Kelly
+    link: "https://patents.google.com/patent/US20200221945A1/en"
+    conference: US Patent Office 16629292 
 skills:
     title: Skills &amp; Proficiency
 
