@@ -178,9 +178,9 @@ publications:
       authors: <b>JMF Kelly</b>, A Daugirdiene, JJ Kulikowski, IJ Murray
       conference: JOSA A 35 (4), B100-B105
     - title: A method and apparatus for measuring a property of an eye
-    authors: Jeremiah Michael Francis Kelly
-    link: "https://patents.google.com/patent/US20200221945A1/en"
-    conference: US Patent Office 16629292
+      link: "https://patents.google.com/patent/US20200221945A1/en"
+      authors: Jeremiah Michael Francis Kelly
+      conference: US Patent Office 16629292
     - title: Google Scholar Page
       link: "https://scholar.google.com/citations?user=WvsuodoAAAAJ&hl=en"
 skills:
