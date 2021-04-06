@@ -65,7 +65,9 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
           - Bullet point
-          - Bullet point    - degree: MSc in Investigative ophthalmology and Vision Science
+          - Bullet point    
+    
+    - degree: MSc in Investigative ophthalmology and Vision Science
       university: University of Manchester
       time: 1994 - 1999
       details: |
@@ -79,6 +81,19 @@ education:
     - degree: BA in Mathematics
       university: Open University
       time: 1989 - 1992
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          
+          
+    - degree: BSc in Ophthalmic Optics
+      university: University of Aston in Birmingham
+      time: 1983 - 1986
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
