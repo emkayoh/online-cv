@@ -176,18 +176,10 @@ publications:
         authors: ML Read, PB Morgan, <b>JM Kelly</b>, C Maldonado-Codina
         conference: Journal of biomaterials applications 26 (1), 85-99
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Google Scholar Page
+        link: "https://scholar.google.com/citations?user=WvsuodoAAAAJ&hl=en"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-        
-        <a href="https://scholar.google.com/citations?user=WvsuodoAAAAJ&hl=en" target="_blank" rel="nofollow">Google Scholar page</a>
-
+       
 skills:
     title: Skills &amp; Proficiency
 
