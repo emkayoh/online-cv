@@ -22,7 +22,7 @@ sidebar:
     bitbucket:
     twitter: '@emkayoh'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: emkayoh
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -59,84 +59,51 @@ education:
       university: University of Manchester
       time: 2010 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point    
+        "Title: Isolating Rod Function in the Human Eye" |
+          - Parameter estimation
+          - Pilot study
     - degree: MSc in Investigative Ophthalmology and Vision Science
       university: University of Manchester
       time: 1994 - 1999
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        By examinatiion and Research
+          - Protein expression in postmortem lens capsule following IOL implantation
     - degree: BA in Mathematics
       university: Open University
       time: 1989 - 1992
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point   
+        Distance learning undergraduate study.
+           
     - degree: BSc in Ophthalmic Optics
       university: University of Aston in Birmingham
       time: 1983 - 1986
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Undergraduate study to access Optometrist training.
 experiences:
     - role: Director and Founder
       time: 2019 - Present
       company: Mumac Ltd, Manchester UK
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Company secretary and Director. Responsible for software development, finance and goverance.
+          - Published Patent. A new method to analyse dark adaptation data 
+          - Managed senior software engineer to implement analytic methods in UI
     - role: Post Doctoral Research Scientist
       time: 2012 - 2019
       company: University of Manchester, University of Liverpool
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        A series of post-doctoral jobs, starting with a clinical trial and development of a preproduction prototype. Later work was with analysis of colour vision data; lightness, colour constancy and influence of the Planckian locus.  
+          - Clinical trial
+          - Pre production prototype development
+          - Colour Vision
+          - High dynamic range monitor development
     - role: Post Graduate Student
       time: 2008 - 2012
       company: University of Manchester
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Investigation of straylight, writing code to objectively analyse images, followed by PhD investigating dark adaptation. Special interest in model development, data analysis using advanced mathematics, distributed computing and embedded processors. 
+          - Dark adaptation
+          - Straylight, veiling luminance
+          - Image analysis
 projects:
     title: Projects
     intro: >
