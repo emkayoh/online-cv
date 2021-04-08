@@ -108,6 +108,25 @@ experiences:
           - Dark adaptation
           - Straylight, veiling luminance
           - Image analysis
+publications:
+    title: Publications &amp; Patents
+    intro: |
+      Selected papers and a link to my Google Scholar page
+    papers:
+    - title: Dynamic contact angle analysis of silicone hydrogel contact lenses.
+      link: "https://journals.sagepub.com/doi/abs/10.1177/0885328210363505"
+      authors: ML Read, PB Morgan, <b>JM Kelly</b>, C Maldonado-Codina
+      conference: Journal of biomaterials applications 26 (1), 85-99
+    - title: "Chips in the sunshine: color constancy with real versus simulated Munsell chips under illuminants adjacent to the daylight locus."
+      link: "https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-35-4-b100"
+      authors: <b>JMF Kelly</b>, A Daugirdiene, JJ Kulikowski, IJ Murray
+      conference: JOSA A 35 (4), B100-B105
+    - title: A method and apparatus for measuring a property of an eye
+      link: "https://patents.google.com/patent/US20200221945A1/en"
+      authors: Jeremiah Michael Francis Kelly
+      conference: US Patent Office 16629292
+    - title: Google Scholar Page
+      link: "https://scholar.google.com/citations?user=WvsuodoAAAAJ&hl=en"
 projects:
     title: Projects
     intro: >
@@ -135,25 +154,6 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications &amp; Patents
-    intro: |
-      Selected papers and a link to my Google Scholar page
-    papers:
-    - title: Dynamic contact angle analysis of silicone hydrogel contact lenses.
-      link: "https://journals.sagepub.com/doi/abs/10.1177/0885328210363505"
-      authors: ML Read, PB Morgan, <b>JM Kelly</b>, C Maldonado-Codina
-      conference: Journal of biomaterials applications 26 (1), 85-99
-    - title: "Chips in the sunshine: color constancy with real versus simulated Munsell chips under illuminants adjacent to the daylight locus."
-      link: "https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-35-4-b100"
-      authors: <b>JMF Kelly</b>, A Daugirdiene, JJ Kulikowski, IJ Murray
-      conference: JOSA A 35 (4), B100-B105
-    - title: A method and apparatus for measuring a property of an eye
-      link: "https://patents.google.com/patent/US20200221945A1/en"
-      authors: Jeremiah Michael Francis Kelly
-      conference: US Patent Office 16629292
-    - title: Google Scholar Page
-      link: "https://scholar.google.com/citations?user=WvsuodoAAAAJ&hl=en"
 skills:
     title: Skills &amp; Proficiency
 
